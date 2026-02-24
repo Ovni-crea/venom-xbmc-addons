@@ -59,7 +59,7 @@
         "cloudproxy": {
             "label": "Proxy cloudflare",
             "active": "True",
-            "url": "https://corsproxy.io/?url="
+            "url": "https://corsproxy.io/?key=webdemo1&url="
         },
         "coflix": {
             "label": "Coflix",
@@ -96,6 +96,11 @@
             "active": "True",
             "url": "https://play.frembed.sbs/"
         },
+        "witv": {
+            "label": "wiTV",
+            "active": "True",
+            "url": "https://witv.team/"
+        },
         "dnspython": {
             "label": "DNS Python",
             "active": "True",
@@ -114,7 +119,7 @@
         "dulourd": {
             "label": "DuLourd",
             "active": "True",
-            "url": "https://www.dulourd.boo/"
+            "url": "https://www.dulourd.cash/"
         },
         "elitegol": {
             "label": "Elitegol",
@@ -320,7 +325,7 @@
             "label": "top-stream",
             "active": "True",
             "cloudflare": "False",
-            "url": "https://top-stream.space/"
+            "url": "https://top-stream.plus/"
         },
         "vfilms": {
             "label": "VFilms",
@@ -359,7 +364,7 @@
             "active": "True",
             "cloudflare": "False",
             "site_info": "https://www.wiflix-nouvelle-adresse.site/",
-            "url": "https://flemmix.info/"
+            "url": "https://flemmix.surf/"
         },
         "wilifilm": {
             "label": "Wilifilm",
